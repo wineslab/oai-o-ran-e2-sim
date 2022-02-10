@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/e2sm_examples/kpm_e2sm/",
+    "cmake.buildDirectory": "${workspaceFolder}/e2sm_examples/kpm_e2sm/build"
+}
